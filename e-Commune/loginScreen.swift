@@ -35,7 +35,7 @@ class loginScreen: UIViewController {
       // Get the new view controller.
         if segue.identifier == "homeSegue" {
             let destinationController = segue.destination as! homeViewController
-            destinationController.data = "Welcome " + emailTextField.text! + "!"
+            destinationController.emailData = emailTextField.text!
             
     
        }

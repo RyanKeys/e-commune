@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AA1CC0CD25AD679300BDCCA1 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA1CC0CC25AD679300BDCCA1 /* DetailViewController.swift */; };
+		AA1CC0D225AE732A00BDCCA1 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA1CC0D125AE732A00BDCCA1 /* ProfileViewController.swift */; };
 		AA2E26EC25AC024500080E5E /* ListingViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2E26EB25AC024500080E5E /* ListingViewCell.swift */; };
 		AA2E26F125AC03E700080E5E /* PseudoData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2E26F025AC03E700080E5E /* PseudoData.swift */; };
 		AAACD10225AAC32500CE2AB2 /* loginScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAACD10125AAC32500CE2AB2 /* loginScreen.swift */; };
@@ -37,6 +39,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AA1CC0CC25AD679300BDCCA1 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		AA1CC0D125AE732A00BDCCA1 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 		AA2E26EB25AC024500080E5E /* ListingViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListingViewCell.swift; sourceTree = "<group>"; };
 		AA2E26F025AC03E700080E5E /* PseudoData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PseudoData.swift; sourceTree = "<group>"; };
 		AAACD10125AAC32500CE2AB2 /* loginScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loginScreen.swift; sourceTree = "<group>"; };
@@ -109,6 +113,8 @@
 				AA2E26EB25AC024500080E5E /* ListingViewCell.swift */,
 				AA2E26F025AC03E700080E5E /* PseudoData.swift */,
 				AAE8412625AA8F58002B3D03 /* Main.storyboard */,
+				AA1CC0D125AE732A00BDCCA1 /* ProfileViewController.swift */,
+				AA1CC0CC25AD679300BDCCA1 /* DetailViewController.swift */,
 				AAE8412925AA8F59002B3D03 /* Assets.xcassets */,
 				AAE8412E25AA8F59002B3D03 /* Info.plist */,
 				AAACD10125AAC32500CE2AB2 /* loginScreen.swift */,
@@ -269,6 +275,8 @@
 				AA2E26F125AC03E700080E5E /* PseudoData.swift in Sources */,
 				AAACD10725AAC45800CE2AB2 /* homeViewController.swift in Sources */,
 				AAE8412325AA8F58002B3D03 /* SceneDelegate.swift in Sources */,
+				AA1CC0D225AE732A00BDCCA1 /* ProfileViewController.swift in Sources */,
+				AA1CC0CD25AD679300BDCCA1 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
